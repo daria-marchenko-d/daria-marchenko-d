@@ -12,8 +12,8 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 
 
 # Liste de projets.
-* [Le site "BloomPetals"](file:///D:/Daria/Downloads/La%20plateforme/3%20jour/site/index.html)
-*
+* [Le site "BloomPetals"]
+* [Le site "BloomPetals"](https://github.com/amina-taleb/Fansite_G5/tree/main) 
 *
 *
 
