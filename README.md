@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](https://pixabay.com/get/g446706a5324ecff5153225be27901e7316b2de52761bf6f2751dbdd7dfce9a6ccd9928c1ae8f678ac5e8b4e7ab4204791fe3bf71b1063fce253761b653715f2bddd67d1ccd88a3e83a6f54ecb3631d42_640.jpg)
+![logo](https://images.app.goo.gl/3nydtvSt4fuou71n8)  =640x80
 # Biographie professionnelle
 "Bonjour ! Je m'appelle Daria et je suis passionnée par l'informatique. Je m'intéresse aux technologies modernes, à la programmation, au travail avec les données et à la création de solutions qui peuvent changer le monde pour le meilleur.
 
