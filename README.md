@@ -14,16 +14,16 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 # Technologies et outils
 ### Technologies
 
-|* Linux|* Windows|
+|* Linux | * Windows|
 
 ### Outils dev.
 
-|* HTML|* CSS|
+|* HTML ![HTML](https://pixabay.com/vectors/html5-html5-icon-html5-logo-3384039/) | * CSS|
 
-|* Python|* JS|
+|* Python | * JS|
 
 ### QA Manual
-|* Jira|* Mantis|
+|* Jira | * Mantis|
 
 
 # Liste de projets.
