@@ -1,6 +1,23 @@
 ## Hi there 👋
-# Header H1 (Bonjour)
-## Header H2 ( I’m currently working on)
+# Biographie professionnelle
+"Bonjour ! Je m'appelle Daria et je suis passionnée par l'informatique. Je m'intéresse aux technologies modernes, à la programmation, au travail avec les données et à la création de solutions qui peuvent changer le monde pour le meilleur.
+
+J'ai suivi plusieurs cours de tests en ligne et je m'intéresse désormais au domaine du développement, de la cybersécurité. Afin de me familiariser avec ces spécialisations, j'étudie actuellement à l'école du numérique "La Plateforme".
+
+Mon objectif est d'évoluer constamment, de résoudre des problèmes complexes et de créer des produits qui apportent réellement de la valeur.
+
+Pendant mon temps libre, j'améliore mes compétences grâce à des cours en ligne et à la lecture de blogs techniques. De plus, je suis inspiré par le fait de travailler avec des personnes partageant les mêmes idées, d'échanger des idées et d'apprendre de nouvelles choses. »
+
+# Technologies et outils
+
+
+# Liste de projets.
+* [Le site "BloomPetals"](file:///D:/Daria/Downloads/La%20plateforme/3%20jour/site/index.html)
+*
+*
+*
+
+
 <!--
 **daria-marchenko-d/daria-marchenko-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
