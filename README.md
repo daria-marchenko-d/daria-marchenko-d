@@ -12,15 +12,19 @@ Mon objectif est d'évoluer constamment, de résoudre des problèmes complexes e
 Pendant mon temps libre, j'améliore mes compétences grâce à des cours en ligne et à la lecture de blogs techniques. De plus, je suis inspiré par le fait de travailler avec des personnes partageant les mêmes idées, d'échanger des idées et d'apprendre de nouvelles choses. »
 
 # Technologies et outils
-|1|2|
+### Technologies
 
-|-|-|
+|* Linux|* Windows|
 
-|3|4|
+### Outils dev.
 
-|-|-|
+|* HTML|* CSS|
 
-|3|4|
+|* Python|* JS|
+
+### QA Manual
+|* Jira|* Mantis|
+
 
 # Liste de projets.
 * [Le site "BloomPetals"]
