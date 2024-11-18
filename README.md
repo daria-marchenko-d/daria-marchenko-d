@@ -1,5 +1,5 @@
 ## Hi there 👋
-![alt](https://pixabay.com/photos/coding-computer-hacker-hacking-1841550/ =640x80)
+![alt](https://images.app.goo.gl/3nydtvSt4fuou71n8) =640x80
 # Biographie professionnelle
 "Bonjour ! Je m'appelle Daria et je suis passionnée par l'informatique. Je m'intéresse aux technologies modernes, à la programmation, au travail avec les données et à la création de solutions qui peuvent changer le monde pour le meilleur.
 
