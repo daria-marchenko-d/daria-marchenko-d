@@ -1,4 +1,5 @@
 ## Hi there 👋
+![alt](https://pixabay.com/photos/coding-computer-hacker-hacking-1841550/ =640x80)
 # Biographie professionnelle
 "Bonjour ! Je m'appelle Daria et je suis passionnée par l'informatique. Je m'intéresse aux technologies modernes, à la programmation, au travail avec les données et à la création de solutions qui peuvent changer le monde pour le meilleur.
 
@@ -17,6 +18,7 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 *
 *
 
+# Réseaux sociaux
 
 <!--
 **daria-marchenko-d/daria-marchenko-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
