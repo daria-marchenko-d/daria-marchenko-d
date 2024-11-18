@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo]([https://images.app.goo.gl/3nydtvSt4fuou71n8](https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_1280.jpg)) 
+![logo](https://cdn.prod.website-files.com/6201296d337c6b1b479363bf/646dd674d20db02bdf191cbe_les%2Bconventions%2Bde%2Bcodage.webp) 
 # Biographie professionnelle
 "Bonjour ! Je m'appelle Daria et je suis passionnée par l'informatique. Je m'intéresse aux technologies modernes, à la programmation, au travail avec les données et à la création de solutions qui peuvent changer le monde pour le meilleur.
 
