@@ -18,9 +18,9 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 
 ### Outils dev.
 
-|* ![HTML](https://pixabay.com/vectors/html5-html5-icon-html5-logo-3384039/) | * CSS|
+|* ![HTML](https://pixabay.com/vectors/html5-html5-icon-html5-logo-3384039/) | * ![CSS](https://www.w3schools.com/css/ "CSS") |
 
-|* Python | * JS|
+|* ![Python](https://www.w3schools.com/css/ "CSS") | * JS|
 
 ### QA Manual
 |* Jira | * Mantis|
