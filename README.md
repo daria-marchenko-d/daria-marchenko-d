@@ -18,7 +18,7 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 
 ### Outils dev.
 
-|* ![HTML](https://pixabay.com/vectors/html5-html5-icon-html5-logo-3384039/) | * ![CSS](https://www.w3schools.com/css/ "CSS")  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>|
+|* ![HTML](https://pixabay.com/vectors/html5-html5-icon-html5-logo-3384039/) | * ![CSS] <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>|
 
 |* ![Python](https://www.w3schools.com/css/ "CSS") | * JS|
 
