@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](https://cdn.prod.website-files.com/6201296d337c6b1b479363bf/646dd674d20db02bdf191cbe_les%2Bconventions%2Bde%2Bcodage.webp)
+
 <img src= https://cdn.prod.website-files.com/6201296d337c6b1b479363bf/646dd674d20db02bdf191cbe_les%2Bconventions%2Bde%2Bcodage.webp width="640" height="500"/> 
 
 # Biographie professionnelle
@@ -18,7 +18,7 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 
 ### Outils dev.
 
-|* ![HTML](https://pixabay.com/vectors/html5-html5-icon-html5-logo-3384039/) | * ![CSS](https://www.w3schools.com/css/ "CSS") |
+|* ![HTML](https://pixabay.com/vectors/html5-html5-icon-html5-logo-3384039/) | * ![CSS](https://www.w3schools.com/css/ "CSS")  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>|
 
 |* ![Python](https://www.w3schools.com/css/ "CSS") | * JS|
 
@@ -27,8 +27,8 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 
 
 # Liste de projets.
-* [Le site "BloomPetals"]
-* ["Fansite"](https://github.com/amina-taleb/Fansite_G5/tree/main) 
+* 
+* 
 *
 *
 
