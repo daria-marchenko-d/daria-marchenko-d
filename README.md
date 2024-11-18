@@ -13,7 +13,7 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 
 # Liste de projets.
 * [Le site "BloomPetals"]
-* [Le site "BloomPetals"](https://github.com/amina-taleb/Fansite_G5/tree/main) 
+* ["Fansite"](https://github.com/amina-taleb/Fansite_G5/tree/main) 
 *
 *
 
