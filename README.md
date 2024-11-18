@@ -18,17 +18,22 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 
 ### Outils dev.
 
-|* Git  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | * Bash |
+|* Git  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | * Bash <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> |
 
 |* HTML  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> | * CSS <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>|
 
 |* Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | * JS  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>|
 
-|* Swift <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> | * JS 
+|* Swift <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> | * Figma <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
 ### QA Manual
 |* Jira | * Mantis|
 
+# Statistiques
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daria-marchenko-d&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daria-marchenko-d&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daria-marchenko-d&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daria-marchenko-d&show_icons=true&theme=radical)
 
 # Liste de projets.
 * 
@@ -37,9 +42,9 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 *
 
 # Réseaux sociaux
+|*         |*         |* |
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daria-marchenko-d&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!--
 **daria-marchenko-d/daria-marchenko-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
