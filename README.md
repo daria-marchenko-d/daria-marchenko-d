@@ -1,5 +1,7 @@
 ## Hi there 👋
-![logo](https://cdn.prod.website-files.com/6201296d337c6b1b479363bf/646dd674d20db02bdf191cbe_les%2Bconventions%2Bde%2Bcodage.webp =80x120) 
+![logo](https://cdn.prod.website-files.com/6201296d337c6b1b479363bf/646dd674d20db02bdf191cbe_les%2Bconventions%2Bde%2Bcodage.webp)
+<img src= https://cdn.prod.website-files.com/6201296d337c6b1b479363bf/646dd674d20db02bdf191cbe_les%2Bconventions%2Bde%2Bcodage.webp width="58" height="56"/>
+
 # Biographie professionnelle
 "Bonjour ! Je m'appelle Daria et je suis passionnée par l'informatique. Je m'intéresse aux technologies modernes, à la programmation, au travail avec les données et à la création de solutions qui peuvent changer le monde pour le meilleur.
 
