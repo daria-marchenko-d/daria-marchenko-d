@@ -12,15 +12,19 @@ Mon objectif est d'évoluer constamment, de résoudre des problèmes complexes e
 Pendant mon temps libre, j'améliore mes compétences grâce à des cours en ligne et à la lecture de blogs techniques. De plus, je suis inspiré par le fait de travailler avec des personnes partageant les mêmes idées, d'échanger des idées et d'apprendre de nouvelles choses. »
 
 # Technologies et outils
-### Technologies
+### Système d'exploitation
 
-|* Linux | * Windows|
+|* Linux <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> | * Windows|
 
 ### Outils dev.
 
-|* ![HTML](https://pixabay.com/vectors/html5-html5-icon-html5-logo-3384039/) | * ![CSS] <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>|
+|* Git  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | * Bash |
 
-|* ![Python](https://www.w3schools.com/css/ "CSS") | * JS|
+|* HTML  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> | * CSS <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>|
+
+|* Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | * JS  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>|
+
+|* Swift <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> | * JS 
 
 ### QA Manual
 |* Jira | * Mantis|
@@ -34,6 +38,8 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 
 # Réseaux sociaux
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daria-marchenko-d&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!--
 **daria-marchenko-d/daria-marchenko-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
