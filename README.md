@@ -22,7 +22,8 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 |* Jira | * Mantis|
 
 # Statistiques
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daria-marchenko-d&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daria-marchenko-d&show_icons=true&theme=radical)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daria-marchenko-d&layout=compact)
+
 
 # Liste de projets.
 * 
