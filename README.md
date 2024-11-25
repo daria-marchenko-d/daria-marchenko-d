@@ -26,13 +26,13 @@ Pendant mon temps libre, j'améliore mes compétences grâce à des cours en lig
 
 
 # Liste de projets.
-* 
-* 
+* https://daria-marchenko-d.github.io/Daria-Marchenko-Portfolio/
+* https://daria-marchenko-d.github.io/Fansite/fansite3.html
 *
 *
 
 # Réseaux sociaux
-|*         |*         |* |
+|*  <a href="https://linkedin.com/in/daria-marchenko-544bb3339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daria-marchenko-544bb3339/" height="30" width="40" /></a>       |*         |* |
 
 
 <!--
