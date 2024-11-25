@@ -7,7 +7,7 @@ J'ai suivi plusieurs cours de tests en ligne et je m'intéresse désormais au do
 
 Mon objectif est d'évoluer constamment, de résoudre des problèmes complexes et de créer des produits qui apportent réellement de la valeur.
 
-Pendant mon temps libre, j'améliore mes compétences grâce à des cours en ligne et à la lecture de blogs techniques. De plus, je suis inspiré par le fait de travailler avec des personnes partageant les mêmes idées, d'échanger des idées et d'apprendre de nouvelles choses. »
+Pendant mon temps libre, j'améliore mes compétences grâce à des cours en ligne et à la lecture de blogs techniques. De plus, je suis inspiré par le fait de travailler avec des personnes partageant les mêmes idées, d'échanger des idées et d'apprendre de nouvelles choses."
 
 # Technologies et outils
 ### Système d'exploitation
